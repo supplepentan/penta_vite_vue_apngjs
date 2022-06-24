@@ -34,7 +34,7 @@ const getImage = () => {
 </script>
 
 <template>
-  <div class="container">
+  <div class="container mx-auto">
     <h1>APNG</h1>
     <input type="file" v-on:change="fileSelected">
     <canvas id="canvas" width="640" height="420"
