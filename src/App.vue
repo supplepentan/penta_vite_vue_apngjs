@@ -1,9 +1,9 @@
 <script setup>
-import Aping from './components/Aping.vue';
+import ApingOriginal from './components/ApingOriginal.vue';
 </script>
 
 <template>
-  <Aping />
+  <ApingOriginal />
 </template>
 
 <style>
